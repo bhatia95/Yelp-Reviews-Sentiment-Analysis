@@ -24,8 +24,8 @@ appearing in more than 95% of the documents and less than 5% of the documents as
 Accuracy = number of correct predictions/number of all predictions
 
 # Dependencies:
-python (>=3.5) - Developed on 3.5. Untested on 2.7, 3.4 or 3.6, but ought to work on v. >=3.5
-pandas (>=0.19) Needed for some data sorting operations
-keras (2.0.2/2.0.3) - Deep learning FTW
-tensorflow (1.0.1) - My preferred Keras backend.
-nltk (>3.4) - word corpus
+python (>=3.5) - Developed on 3.5. Untested on 2.7, 3.4 or 3.6, but ought to work on v. >=3.5  
+pandas (>=0.19) Needed for some data sorting operations  
+keras (2.0.2/2.0.3) - Deep learning FTW  
+tensorflow (1.0.1) - My preferred Keras backend.  
+nltk (>3.4) - word corpus  
